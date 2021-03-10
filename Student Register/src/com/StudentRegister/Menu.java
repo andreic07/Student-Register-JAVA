@@ -53,22 +53,6 @@ public class Menu {
         }
     }
 
-    public static void Read_Me() {
-        File RM_file = new File("C:\\Users\\remhq\\Desktop\\Student Register\\src\\com\\Files\\ReadMe.txt");
-        try {
-            Scanner scanRM = new Scanner(RM_file);
-            while (scanRM.hasNextLine()) {
-                String line = scanRM.nextLine();
-                if (line != null) {
-                    System.out.println(line);
-
-
-                }
-            }
-        } catch (Exception exFN) {
-            exFN.printStackTrace();
-        }
-    }
 
     public static void Read_Messages() {
         File M_file = new File("C:\\Users\\remhq\\Desktop\\Student Register\\src\\com\\Files\\UserMessages.txt");
