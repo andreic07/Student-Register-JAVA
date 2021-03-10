@@ -1,0 +1,6 @@
+John
+Doe
+0756890765
+john.doe@hotmail.com
+This is a test message.I will type 2, 3 and four for this test! Reply @Email
+-----------------------------Separator

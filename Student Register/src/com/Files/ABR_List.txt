@@ -1,0 +1,12 @@
+IEC = Inginerie Electrica si Calculatoare
+AUTO = Automatica
+MI = Matematica-Informatica
+ID = Design Industrial
+ALT = Alimentatie si Turism
+II = Inginerie Industriala
+IME = Inginerie Mecatronica
+DDP = Design de Produs
+IMEC = Inginerie Mecanica
+MED = Medicina
+IU = Inginerie Universitara
+AUR = Automatica si Retelistica
